@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarlingBank</string>
+    <string name="rounded_up_value">Rounded-up value</string>
+    <string name="add_money_to_savings_goal">ADD MONEY TO SAVINGS GOAL</string>
+</resources>
